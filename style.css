@@ -1,7 +1,7 @@
 body {
   font-family: system-ui, sans-serif;
   max-width: 700px;
-  margin: 0 auto;
+  margin: 0 auto 0 5%;
   padding: 2rem;
   line-height: 1.6;
   text-align: center;
