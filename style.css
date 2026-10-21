@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 4rem;   /* space between the header and Projects */
+}
+
+h2 {
+  margin-top: 3rem;      /* space above each section title */
+  margin-bottom: 1.5rem; /* space below each section title */
+}
+
+article {
+  margin-bottom: 2.5rem; /* space between project cards */
+}
+
+footer {
+  margin-top: 4rem;      /* space above the contact section */
+}
